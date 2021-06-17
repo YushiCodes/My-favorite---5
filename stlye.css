@@ -1,0 +1,84 @@
+body {
+    text-align: center;
+    background-color: darkorchid;
+}
+
+#menu {
+    font-family: cursive;
+    cursor: pointer;
+    top: 10px;
+    right: 30px;
+    color: black;
+    float: right;
+}
+
+
+#image1 {
+    border: solid;
+    border-width: 5px;
+    border-color: black;
+    border-radius: 75px;
+    margin-left: 160px;
+    height: auto;
+    width: auto;
+}
+
+#my {
+    margin-left: 160px;
+}
+
+p {
+    font-size: 25px;
+}
+
+#aboyt {
+    border: solid;
+    border-color: black;
+    border-width: 5px;
+
+
+}
+
+.class {
+    margin-bottom: 100px;
+    background-color: blueviolet;
+    border: solid;
+    border-width: 10px;
+    border-color: black;
+    border-radius: 10px;
+}
+
+#ppt {
+    border: solid;
+    border-color: black;
+    border-width: 5px;
+}
+
+hr {
+    color: black;
+    height: 5px;
+}
+
+.img {
+    height: 200px;
+    width: 300px;
+    margin-top: 50px;
+    border: solid;
+    border-color: black;
+    border-width: 5px;
+}
+
+#q {
+    width: 250px;
+    margin-left: 50px;
+}
+
+#l {
+    border: solid;
+    border-color: black;
+    border-width: 5px;
+}
+#contact {
+    background: green;
+
+}
